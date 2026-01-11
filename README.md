@@ -1,4 +1,4 @@
-# Professional Calculator Web Application
+# Calculator Web Application
 
 A modern, production-quality calculator web application built using **HTML, CSS, and Vanilla JavaScript**.  
 This project focuses on clean architecture, safe computation logic (no `eval()`), and a polished user interface suitable for real-world use and portfolio presentation.
